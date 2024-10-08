@@ -29,7 +29,7 @@ If you share or modify this game, please attribute it as follows:
 
 - Original Creator: Kambell Flood
 - Game Title: Shrouded Depths: [Your Versions Sub-Title]
-- Link to the original repository: [https://github.com/KyanberuNoKage/ShroudedDepths](KyanberuNoKage/ShroudedDepths)
+- Link to the original repository: [KyanberuNoKage/ShroudedDepths]([KyanberuNoKage/ShroudedDepths](https://github.com/KyanberuNoKage/ShroudedDepths))
 - License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 
 ---
