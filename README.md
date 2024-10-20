@@ -29,8 +29,10 @@ Please read [LICENSE](/LICENSE.md) file for terms of use.
 
 1. **Open the Extracted Folder**: Navigate to the folder where you extracted the Windows files.
 2. **Run the Game**:
-   - Find the **ShroudedDepths.exe** file.
+   - Find either the "**Run Shrouded Depths.bat**" file, or if this file dosn't run the game, find the "**ShroudedDepths.exe**" file.
    - Double-click on it to launch the game.
+
+**DISCLAIMER:** There may currently be issues with anti-virus software thinking the game is unsafe. This isn't a virus, but I take no accountability for problems caused by disabling anti-virus or whitelisting this games files on your computer.
 
 ---
 
