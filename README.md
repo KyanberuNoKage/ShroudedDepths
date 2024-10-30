@@ -15,7 +15,7 @@ Please read [LICENSE](/LICENSE.md) file for terms of use.
 ### Downloading the Game
 
 1. **Visit the Releases Page**: Go to the [Releases](https://github.com/KyanberuNoKage/ShroudedDepths/releases) section of this repository.
-2. **Choose Your Version**: Download the **Windows.zip** file.
+2. **Choose Your Version**: Download the **Windows.zip** file. or download the **Source Code** zip and extract it.
 
 ### Unzipping the Game
 
@@ -38,21 +38,5 @@ Please read [LICENSE](/LICENSE.md) file for terms of use.
 
 # MacOS
 
-### Downloading the Game
-
-1. **Visit the Releases Page**: Go to the [Releases](https://github.com/KyanberuNoKage/ShroudedDepths/releases) section of this repository.
-2. **Choose Your Version**: Download the **Mac.zip** file.
-
-### Unzipping the Game
-
-1. **Locate the Downloaded File**: Find the **Mac.zip** file in your Downloads folder or the location where you saved it.
-2. **Unzip the File**:
-   - Double-click on the **Mac.zip** file. This will automatically extract the contents into a new folder.
-
-### Running the Game
-
-1. **Open the Extracted Folder**: Navigate to the folder where you extracted the Mac files.
-2. **Run the Game**:
-   - Locate the **ShroudedDepths.app** file.
-   - Double-click on it to launch the game.
-   - If you encounter a warning that the app is from an unidentified developer, you can bypass it by right-clicking on the app, selecting **Open**, and then clicking **Open** in the dialog box that appears.
+# CURRENTLY UNAVAILABLE 
+# FILE DOESN'T RUN PROPERLY
