@@ -1,10 +1,10 @@
 # ShroudedDepths
 
-A repo for the 'playable' releases of the first-person dungeon crawler rougelite I've been working on.
+This is a repository for the playable releases of the first-person dungeon crawler rougelite I've been working on.
 
-Please read [LICENSE](/LICENSE.md) file for terms of use.
+Please read [LICENSE](/LICENSE.md) file for **terms of use**.
 
-
+Find **Known Issues** [here](#known-issues).
 
 ---
 
@@ -29,8 +29,8 @@ Please read [LICENSE](/LICENSE.md) file for terms of use.
 
 1. **Open the Extracted Folder**: Navigate to the folder where you extracted the Windows files.
 2. **Run the Game**:
-   - Find either the "**Run Shrouded Depths.bat**" file, or if this file dosn't run the game, find the "**ShroudedDepths.exe**" file.
-   - Double-click on it to launch the game.
+   - Find either the "**Run Shrouded Depths.bat**" file inside the windows ZIP file, or if this file dos not run the game, find the "**ShroudedDepths.exe**" file.
+   - Double-click on the file to launch the game.
 
 **DISCLAIMER:** There may currently be issues with anti-virus software thinking the game is unsafe. This isn't a virus, but I take no accountability for problems caused by disabling anti-virus or whitelisting this games files on your computer.
 
@@ -38,5 +38,12 @@ Please read [LICENSE](/LICENSE.md) file for terms of use.
 
 # MacOS
 
-# CURRENTLY UNAVAILABLE 
-# FILE DOESN'T RUN PROPERLY
+# CURRENTLY UNAVAILABLE
+
+
+
+---
+
+# Known Issues
+
+- Maze sometimes not generating properly leading to player getting stuck.
