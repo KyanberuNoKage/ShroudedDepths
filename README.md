@@ -40,10 +40,10 @@ Find **Known Issues** [here](#known-issues).
 
 # CURRENTLY UNAVAILABLE
 
-
-
 ---
 
 # Known Issues
 
 - Maze sometimes not generating properly leading to player getting stuck.
+- Can pause the game while in menus.
+- Sometimes when loading back into the Overworld the player will spawn in the void.
