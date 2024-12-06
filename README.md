@@ -29,7 +29,7 @@ Find **Known Issues** [here](#known-issues).
 
 1. **Open the Extracted Folder**: Navigate to the folder where you extracted the Windows files.
 2. **Run the Game**:
-   - Find either the "**Run Shrouded Depths.bat**" file inside the windows ZIP file, or if this file dos not run the game, find the "**ShroudedDepths.exe**" file.
+   - Find either the "**Run Shrouded Depths.bat**" file inside the un-Ziped windows file, or if (for whatwver reason) this file dos not run the game, find the "**ShroudedDepths.exe**" file.
    - Double-click on the file to launch the game.
 
 **DISCLAIMER:** There may currently be issues with anti-virus software thinking the game is unsafe. This isn't a virus, but I take no accountability for problems caused by disabling anti-virus or whitelisting this games files on your computer.
@@ -47,4 +47,3 @@ Find **Known Issues** [here](#known-issues).
 - Maze sometimes not generating properly leading to player getting stuck.
 - Can pause the game while in menus.
 - Sometimes when loading back into the Overworld the player will spawn in the void.
-- On occasion, player spawns on the outside edge of the dungeon rather than inside the dungeon.
