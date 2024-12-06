@@ -47,3 +47,4 @@ Find **Known Issues** [here](#known-issues).
 - Maze sometimes not generating properly leading to player getting stuck.
 - Can pause the game while in menus.
 - Sometimes when loading back into the Overworld the player will spawn in the void.
+- On occasion, player spawns on the outside edge of the dungeon rather than inside the dungeon.
