@@ -8,6 +8,10 @@ Find **Known Issues** [here](#known-issues).
 
 ---
 
+# ⚠️ DEVELOPMENT HAS STOPPED UNTIL FURTHER NOTICE ⚠️
+
+---
+
 # <u>**How to Play**</u>
 
 # Windows
